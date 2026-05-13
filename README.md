@@ -1,2 +1,2 @@
 # MNI-MCP-Game
-1
+游戏模拟
